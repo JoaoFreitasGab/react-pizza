@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <>
             <Nav>
-                <NavLink to='/'>Pizza</NavLink>
+                <NavLink to='/'>Pizzaria Camargo's</NavLink>
                 <NavIcon>
                     <p>Menu</p>
                     <Bars></Bars>
